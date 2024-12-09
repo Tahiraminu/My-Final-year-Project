@@ -1,4 +1,4 @@
-# FCP-CSC-18-1032
+# FCP-CCS-18-1030
 # DETECTION OF PHISHING WEBSITES USING MACHINE LEARNING 
 
 ## Objective
@@ -11,7 +11,7 @@ The set of phishing URLs are collected from opensource service called **PhishTan
 **legitimate URL Dataset**
 The legitimate URLs are obatined from the open datasets of the University of New Brunswick, https://www.unb.ca/cic/datasets/url-2016.html. This dataset has a collection of benign, spam, phishing, malware & defacement URLs. Out of all these types, the benign url dataset is considered for this project. From this dataset, 5000 random legitimate URLs are collected to train the ML models.
 
-The above-mentioned datasets are uploaded to (https://github.com/MukhtarUmarGhali/PhishBuster/tree/master/ML%20work/DataSets)' folder of this repository.
+The above-mentioned datasets are uploaded to (https://github.com/Tahiraminu/My-Final-year-Project/blob/main/Malware_dataset.csv)' folder of this repository.
 
 ## Feature Extraction
 The below mentioned category of features are extracted from the URL data:
